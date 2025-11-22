@@ -1,0 +1,41 @@
+body
+{
+	font-size: 1.3em;
+	font-family:"Times New Roma",Georgia, Courier New, Arias ;
+}
+introduction,projet
+{
+	color: blue;
+	font-size: 16px;
+	text-decoration: blink;
+}
+h2+p
+{
+	color: mediumvioletred;
+	text-justify: right;
+}
+h1+p
+{
+	text-justify: left;
+}
+a[title]
+{
+	font-weight: bold;
+}
+p em
+{
+	font-style: italic;
+}
+h1
+{
+	font-weight: bold;
+	text-decoration: blink;
+}
+image_flottante
+{
+	float: left;
+}
+flottante
+{
+	clear: both;
+}
